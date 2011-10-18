@@ -3,15 +3,18 @@ package Acme::CPANAuthors::Spanish;
 use warnings;
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Acme::CPANAuthors::Register ( CASIANO   => 'Casiano Rodríguez-León',
+                                  DIEGOK    => 'Diego Kuperman',
                                   ENELL     => 'Enrique Nell',
                                   EXPLORER  => 'Joaquín Ferrero',
                                   FXN       => 'Xavier Noria',
                                   JMERELO   => 'J. J. Merelo-Guervós',
                                   NES       => 'Enrique F. Castañón',
                                   NITO      => 'Nito Martínez',
+                                  PECO      => 'Juan José San Martín',
+                                  RODRIGO   => 'Rodrigo de Oliveira González',
                                   SALVA     => 'Salvador Fandiño',
                                 );
 
@@ -82,7 +85,7 @@ L<http://search.cpan.org/dist/Acme-CPANAuthors-Spanish/>
 
 =item * Github - get the source code
 
-L<http://github.com/salva/p5-Acme-CPANAuthors-Spanish.git/>
+L<http://github.com/salva/p5-Acme-CPANAuthors-Spanish>
 
 =back
 
