@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Acme-CPANAuthors-Spanish
-version:            0.04
+version:            0.05
 abstract:           We are the Spanish CPAN Authors
 author:
     - Several
